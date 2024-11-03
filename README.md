@@ -62,4 +62,5 @@ In this week, you're gonna work on the Multi-Bandit Problem from Sutton and Bart
 
 You're going to implement the greedy and $\epsilon$-greedy algorithms and observe how one is better than the other and make changes
 
+Read the Chapter in Sutton and Barto and implement the algorithms in the `work_on_bandits.py` file
 
