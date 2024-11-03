@@ -3,7 +3,8 @@
 ## Contents
 
 - [WEEK 0](#week-0)
-    - [Resources for Python](#resources-for-the-same)
+    - [Resources for Git](#resources-for-git)
+    - [Resources for Python](#resources-for-python)
     - [Resources for Numpy](#resources-for-numpy)
     - [Resources for Pandas](#resources-for-pandas)
     - [Resources for Matplotlib](#resources-for-matplotlib)
@@ -18,6 +19,14 @@ This project focuses on introducing you to the world of Reinforcement Learning b
 In the Week 0, we want you to learn Python (Python is a good relief if you're bored of C++ from CS 101 this sem) and modules like numpy, pandas and matplotlib (They are the goto libraries and the first imported when you're starting with any DS project, so it's good to have a grasp on them)
 
 Choose whatever resource suits you and get acquainted with the modules to move forward with the project.
+
+### Resources for Git
+
+I'd love it if you also learn git for working with projects (it's very useful for version control and team integration)
+
+This is a good lecture on git for beginners
+
+Git - https://youtu.be/NcoBAfJ6l2Q?si=FRLMmKKwj01E8ePw
 
 ### Resources for Python
 
@@ -52,7 +61,5 @@ Numpy, Pandas and Matplotlib in a Playlist - https://youtube.com/playlist?list=P
 In this week, you're gonna work on the Multi-Bandit Problem from Sutton and Barto (available in the resources folder)
 
 You're going to implement the greedy and $\epsilon$-greedy algorithms and observe how one is better than the other and make changes
-
-
 
 
