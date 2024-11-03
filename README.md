@@ -56,7 +56,7 @@ W3 schools - https://www.w3schools.com/python/matplotlib_intro.asp
 
 Numpy, Pandas and Matplotlib in a Playlist - https://youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA&si=1zoqrRjvGLP4QMmU
 
-Some Python Notebooks for your practice can be found in the [Week 0 Folder](./Week 0/)
+Some Python Notebooks for your practice can be found in the [Week 0 Folder](./Week%200/)
 
 
 ## Week 1:
@@ -65,5 +65,5 @@ In this week, you're gonna work on the Multi-Bandit Problem from Sutton and Bart
 
 You're going to implement the greedy and $\epsilon$-greedy algorithms and observe how one is better than the other and make changes
 
-Read the Chapter in Sutton and Barto and implement the algorithms in the `work_on_bandits.py` file
+Read the Chapter in Sutton and Barto and implement the algorithms in the [work_on_bandits.ipynb](./Week%201/work_on_bandits.ipynb) file
 
