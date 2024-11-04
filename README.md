@@ -30,10 +30,6 @@ Git - https://youtu.be/NcoBAfJ6l2Q?si=FRLMmKKwj01E8ePw
 
 ### Resources for Python
 
-This is something I just googled and found, looks good for programmers (who did CS 101 in prior)
-
-Codecademy: https://www.codecademy.com/learn/python-for-programmers
-
 This is a good video but long, should keep you occupied for a bit.
 
 Programming with Mosh: [Youtube](https://youtu.be/_uQrJ0TkZlc?si=gfn-7_-chO-J60hD)
