@@ -1,5 +1,7 @@
 # WIDS-2024-Can-Computers-Think
 
+This Winter in Data Science Project under the Analytics Club, IIT Bombay is being mentored by Nirav Bhattad (@Nirraaav) and me
+
 ## Contents
 
 - [WEEK 0](#week-0)
